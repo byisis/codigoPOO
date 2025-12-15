@@ -1,0 +1,10 @@
+C:\Users\tarde.cetafest\source\repos\codigo POO front\bin\Debug\codigo POO front.exe.config
+C:\Users\tarde.cetafest\source\repos\codigo POO front\bin\Debug\codigo POO front.exe
+C:\Users\tarde.cetafest\source\repos\codigo POO front\bin\Debug\codigo POO front.pdb
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo POO front.csproj.AssemblyReference.cache
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo_POO_front.Form1.resources
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo_POO_front.Properties.Resources.resources
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo POO front.csproj.GenerateResource.cache
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo POO front.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo POO front.exe
+C:\Users\tarde.cetafest\source\repos\codigo POO front\obj\Debug\codigo POO front.pdb
